@@ -1,8 +1,8 @@
 <?php
 
-$str = "Hello world";
-$str1 = "Hello universe";
-$int = 5;
-$int = 10;
+$str = "Hello world, it's me";
+$str1 = "Hello universe, it's me";
+$int = 15;
+$int = 100;
 
 ?>
