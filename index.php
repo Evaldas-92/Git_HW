@@ -1,8 +1,8 @@
 <?php
 
 $str = "Hello world, hello universe";
-$str1 = "Conflict string";
-$int = 7;
-$int1 = 25;
+$str1 = "Conflict string resolved";
+$int = 88;
+$int1 = 2555;
 
 ?>
